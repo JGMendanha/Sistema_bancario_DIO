@@ -4,4 +4,4 @@
 #### Limite de saques: 3.
 #### Valor limite de saque: 500 reais. 
 #### Todas as operações devem ser computadas e exibidas no extrato.
-### O sistema conta com uma proteção contra possíveis erros de digitação do usuário, como digitar caracteres ao invés de números para os valores de saque e depósito usando try/except.
+### O sistema conta com uma proteção contra possíveis erros de digitação do usuário, como digitar caracteres ao invés de números para os valores de saque e depósito, usando try/except.
